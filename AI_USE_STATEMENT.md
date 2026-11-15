@@ -1,6 +1,6 @@
 # AI-Use Statement
 
-**Course:** AIML506, Fall 2026 · **Student:** <Your Name> (<Student ID>)
+
 **Project:** PharmaGraph-OTC: GraphRAG vs Vector RAG on over-the-counter drug data
 
 ## Tools used
@@ -10,8 +10,7 @@
 ## What each tool was used for
 
 **ChatGPT**
-- Brainstorming project topics and finding candidate datasets at the start of the project. *(Edit this line to match what you actually did.)*
-- *(Add anything else, for example explaining Neo4j or Cypher concepts, or checking wording.)*
+- Brainstorming project topics and finding candidate datasets at the start of the project. 
 
 **Claude**
 - Comparing candidate datasets from Mendeley Data and checking them against the assignment requirements (size, relationships, licence).
@@ -21,7 +20,6 @@
 - Drafting the README and the structure of this statement.
 
 ## What I did myself
-*(Edit to match reality. Examples below; delete what is not true.)*
 - Chose the project topic and the final dataset, and checked its licence and DOI on Mendeley Data.
 - Created the Neo4j Aura instance and Kaggle Secrets, and ran every notebook on Kaggle.
 - Reviewed the generated code and the Cypher queries, and checked outputs against the data.
